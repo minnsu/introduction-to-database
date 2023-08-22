@@ -1,3 +1,3 @@
-# database-pa
+# introduction-to-database
 
-2023-Spring Database Homeworks codes
+2023-Spring Introduction to Database's homeworks and exercises codes
